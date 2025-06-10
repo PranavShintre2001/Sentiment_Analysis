@@ -53,8 +53,8 @@
 <ol>
   <li>Clone the repository</li>
 
-  <pre><code>git clone https://github.com/your-username/sentiment-analysis-app.git
-cd sentiment-analysis-app</code></pre>
+  <pre><code>git clone https://github.com/your-username/Sentiment_Analysis.git
+cd Sentiment_Analysis</code></pre>
 
   <li>Install dependencies (you can use a virtual environment)</li>
 
@@ -62,4 +62,4 @@ cd sentiment-analysis-app</code></pre>
 
   <li>Run the application</li>
 
-  <pre><code>python app.py</code></
+  <pre><code>python Sentiment_Analysis.py</code></
